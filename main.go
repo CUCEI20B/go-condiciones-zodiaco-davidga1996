@@ -31,7 +31,7 @@ func main() {
 	} else if (dia >= 23 && dia <= 31 && mes == 10) || (dia >= 1 && dia <= 22 && mes == 11) {
 		fmt.Println("Escorpion")
 	} else if (dia >= 23 && dia <= 30 && mes == 11) || (dia >= 1 && dia <= 21 && mes == 12) {
-		fmt.Println("Sagitario")
+		fmt.Println("sagitario")
 	} else if (dia >= 22 && dia <= 31 && mes == 12) || (dia >= 1 && dia <= 20 && mes == 1) {
 		fmt.Println("Capricornio")
 	} else {
